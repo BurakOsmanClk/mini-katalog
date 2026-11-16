@@ -1,0 +1,12 @@
+include: package:flutter_lints/flutter.yaml
+
+analyzer:
+  errors:
+    # Eğitim kapsamı gereği yalnızca package:flutter/material.dart kullanılır.
+    # Flutter 3.47+ bu içe aktarmayı material_ui paketine taşıdığı için uyarı verir.
+    deprecated_member_use: ignore
+  exclude:
+    - build/**
+    - android/**
+    - ios/**
+    - web/**

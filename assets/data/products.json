@@ -1,0 +1,14 @@
+{
+  "products": [
+    {"id": 1, "name": "Kablosuz Kulaklık", "category": "Elektronik", "price": 1299.90, "rating": 4.6, "stock": 45, "image": "assets/images/p1.png", "description": "Aktif gürültü engelleme, 30 saat pil ömrü ve hızlı şarj desteği sunan kulak üstü kablosuz kulaklık."},
+    {"id": 2, "name": "Akıllı Saat", "category": "Elektronik", "price": 3499.00, "rating": 4.4, "stock": 12, "image": "assets/images/p2.png", "description": "Nabız, uyku ve adım takibi yapan, suya dayanıklı, AMOLED ekranlı akıllı saat."},
+    {"id": 3, "name": "Bluetooth Hoparlör", "category": "Elektronik", "price": 899.50, "rating": 4.2, "stock": 8, "image": "assets/images/p3.png", "description": "Kompakt gövdede güçlü bas, IPX7 su geçirmezlik ve 12 saat kesintisiz müzik."},
+    {"id": 4, "name": "Pamuklu Tişört", "category": "Giyim", "price": 249.90, "rating": 4.1, "stock": 120, "image": "assets/images/p4.png", "description": "%100 organik pamuktan üretilmiş, nefes alan, rahat kesim basic tişört."},
+    {"id": 5, "name": "Spor Ayakkabı", "category": "Giyim", "price": 1599.00, "rating": 4.7, "stock": 30, "image": "assets/images/p5.png", "description": "Hafif taban yapısı ve file üst yüzeyiyle günlük kullanım ve koşu için ideal."},
+    {"id": 6, "name": "Kışlık Mont", "category": "Giyim", "price": 1899.00, "rating": 4.5, "stock": 15, "image": "assets/images/p6.png", "description": "Su itici dış yüzey, kapüşonlu ve içi polar astarlı sıcak tutan mont."},
+    {"id": 7, "name": "Roman Seti", "category": "Kitap", "price": 345.00, "rating": 4.8, "stock": 60, "image": "assets/images/p7.png", "description": "Dünya klasiklerinden seçilmiş 3 romanlık özel kutulu set."},
+    {"id": 8, "name": "Seramik Kupa", "category": "Ev & Yaşam", "price": 149.00, "rating": 4.3, "stock": 25, "image": "assets/images/p8.png", "description": "El yapımı, mikrodalga ve bulaşık makinesinde kullanılabilen 350 ml seramik kupa."},
+    {"id": 9, "name": "Masa Lambası", "category": "Ev & Yaşam", "price": 649.90, "rating": 4.0, "stock": 5, "image": "assets/images/p9.png", "description": "3 farklı ışık tonu ve dokunmatik kısma özelliğine sahip LED masa lambası."},
+    {"id": 10, "name": "Saksı Bitkisi", "category": "Ev & Yaşam", "price": 279.00, "rating": 4.6, "stock": 18, "image": "assets/images/p10.png", "description": "Bakımı kolay, iç mekana uygun, dekoratif saksısıyla birlikte gönderilen yeşil bitki."}
+  ]
+}
